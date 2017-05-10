@@ -1,0 +1,1 @@
+var adt = require('adt')
